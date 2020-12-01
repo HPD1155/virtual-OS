@@ -1,7 +1,0 @@
-C:\Users\aadi_\Documents\SharpDevelop Projects\test\test\bin\Debug\test.exe
-C:\Users\aadi_\Documents\SharpDevelop Projects\test\test\bin\Debug\test.pdb
-C:\Users\aadi_\Documents\SharpDevelop Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
-C:\Users\aadi_\Documents\SharpDevelop Projects\test\test\obj\Debug\test.MainForm.resources
-C:\Users\aadi_\Documents\SharpDevelop Projects\test\test\obj\Debug\test.csproj.GenerateResource.Cache
-C:\Users\aadi_\Documents\SharpDevelop Projects\test\test\obj\Debug\test.exe
-C:\Users\aadi_\Documents\SharpDevelop Projects\test\test\obj\Debug\test.pdb
