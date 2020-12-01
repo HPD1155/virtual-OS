@@ -1,11 +1,4 @@
-﻿/*
- * Created by SharpDevelop.
- * User: aadi_
- * Date: 11/30/2020
- * Time: 3:38 PM
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
+
 namespace test
 {
 	partial class MainForm
